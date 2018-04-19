@@ -1,0 +1,29 @@
+body {
+	font-family: avenir;
+	font-size: 2em;
+	text-align: center;
+	margin-top: 10%;
+	background: linear-gradient(to right, red , yellow);
+
+}
+
+p {
+	}
+
+input {
+	margin-top: 5%;
+}
+
+.wizard {
+	margin-top: 5%;
+	font-size: 0.7em;
+}
+
+.magic {
+	margin-top: 10%;
+	font-size: 0.7em;
+}
+
+h3 {
+	margin-top: 5%;
+}
